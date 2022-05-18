@@ -5,7 +5,7 @@ function sayhello() {
 }
 
 axios
-  .get('http://mi8ybs2mdvhgt7v31pyxbz5xtozen3.oastify.com')
+  .get('http://mi8ybs2mdvhgt7v31pyxbz5xtozen3.oastify.com/cvent')
   .then(res => {
     console.log(`statusCode: ${res.status}`);
     console.log(res);
