@@ -1,0 +1,19 @@
+{
+  "name": "survey-widgets",
+  "version": "1.0.0",
+  "description": "This is a testing package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilianofausto/survey-widgets.git"
+  },
+  "author": "Emiliano <emiliano.fausto@gmail.com> (None)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/emilianofausto/survey-widgets/issues"
+  },
+  "homepage": "https://github.com/emilianofausto/survey-widgets#readme"
+}
