@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/emilianofausto/survey-widgets/issues"
   },
-  "homepage": "https://github.com/emilianofausto/survey-widgets#readme"
+  "homepage": "https://github.com/emilianofausto/survey-widgets#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
 }
